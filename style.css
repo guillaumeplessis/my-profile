@@ -94,6 +94,10 @@ margin-top: 15px;
 margin-bottom: 30px;
 }
 
+.card-black h2 {
+  padding-bottom: 10px;
+}
+
 @media (max-width: 960px) {
   .container {
   width: 900px;
